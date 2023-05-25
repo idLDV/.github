@@ -1,7 +1,9 @@
 ## The Identity of Leonardo da Vinci
 
 ### Open Collaboration in Scientific Research: A Dynamic Approach
-https://github.com/idLDV/Scientific-Research/blob/main/README.md
+## License
+
+Please see the [https://github.com/idLDV/Scientific-Research/blob/main/README.md](CC-Policy.md) file for the licensing details and terms of use.
 
 
 <!--

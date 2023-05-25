@@ -1,6 +1,15 @@
 ## The Identity of Leonardo da Vinci
 
 ### Open Collaboration in Scientific Research: A Dynamic Approach
+
+## Declaration and Policies
+
+Please refer to the following documents for important declarations and policies related to this project:
+
+- [Contributing Guidelines](CONTRIBUTING.md): Guidelines for contributing to this project.
+- [Code of Conduct](CODE_OF_CONDUCT.md): Code of conduct for maintaining a respectful and inclusive community.
+
+
 ## License
 see the [https://github.com/idLDV/Scientific-Research/blob/main/README.md](CC-Policy.md) file for the licensing details and terms of use.
 

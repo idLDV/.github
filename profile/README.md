@@ -2,7 +2,7 @@
 
 ### Open Collaboration in Scientific Research: A Dynamic Approach
 ## License
-[https://github.com/idLDV/Scientific-Research/blob/main/README.md](CC-Policy.md) file for the licensing details and terms of use.
+see the [https://github.com/idLDV/Scientific-Research/blob/main/README.md](CC-Policy.md) file for the licensing details and terms of use.
 
 
 <!--

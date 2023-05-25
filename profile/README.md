@@ -6,8 +6,8 @@
 
 Please refer to the following documents for important declarations and policies related to this project:
 
-- [Contributing Guidelines](CONTRIBUTING.md): Guidelines for contributing to this project.
-- [Code of Conduct](CODE_OF_CONDUCT.md): Code of conduct for maintaining a respectful and inclusive community.
+- [Contributing Guidelines](.github/profile/CONTRIBUTING.md): Guidelines for contributing to this project.
+- [Code of Conduct](.github/profile/CODE_OF_CONDUCT.md): Code of conduct for maintaining a respectful and inclusive community.
 
 
 ## License

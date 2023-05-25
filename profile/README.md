@@ -11,7 +11,6 @@ Please refer to the following documents for important declarations and policies 
 
 
 ## License
-see the [https://github.com/idLDV/Scientific-Research/blob/main/README.md](CC-Policy.md) file for the licensing details and terms of use.
 
 
 <!--

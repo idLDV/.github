@@ -9,6 +9,10 @@ Please refer to the following documents for important declarations and policies 
 - [Contributing Guidelines](../CONTRIBUTING.md): Guidelines for contributing to this project.
 - [Code of Conduct](../CODE_OF_CONDUCT.md): Code of conduct for maintaining a respectful and inclusive community.
 
+- [Contributing Guidelines](CONTRIBUTING.md): Guidelines for contributing to this project.
+- [Code of Conduct](CODE_OF_CONDUCT.md): Code of conduct for maintaining a respectful and inclusive community.
+
+
 
 ## License
 
